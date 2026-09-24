@@ -1,0 +1,39 @@
+Inventaire équipements:
+- Carte Seeed Xiao NRF52840 Sense
+
+Mouser
+https://eu.mouser.com/fr/ProductDetail/Seeed-Studio/102010632?qs=sqEgtWRSLJ0ucJLg%2F6rE9w%3D%3D
+
+RadioSpare
+https://fr.rs-online.com/web/p/kits-et-cartes-compatibles-arduino/2500968?cm_mmc=FR-PLA-DS3A-_-bing-_-PLA_FR_FR_Catch+All-_-Composants+Electroniques,+Energie+et+Connecteurs-_-2500968&matchtype=e&pla-4574655592306590&cq_src=google_ads&cq_cmp=554644914&cq_term=&cq_plac=&cq_net=o&cq_plt=gp&gclid=603fae44ee9f19b0c556c427fb23a3fd&gclsrc=3p.ds&msclkid=603fae44ee9f19b0c556c427fb23a3fd
+
+
+quantité: (15)
+
+- Batterie LiPo PR502535
+
+GoTronic
+https://www.gotronic.fr/art-accu-lipo-3-7-vcc-400-mah-pr502535-5812.htm
+
+quantité: (15)
+
+- Pour le câble usb vers usb-c (le moins cher que j'ai trouvé):
+
+RadioSpare
+https://fr.rs-online.com/web/p/cables-usb/2662604
+
+quantité: (15)
+
+- Interrupteur marche/arrêt Inverseur unipolaire H251A
+
+GoTronic
+https://www.gotronic.fr/art-inverseur-unipolaire-h251a-4309.htm
+
+quantité: (15)
+
+- Leds 8mm
+
+Gotronic
+https://www.gotronic.fr/cat-leds-8-mm-standards-486.htm
+
+Quantité: (30)
